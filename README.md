@@ -1,2 +1,2 @@
 # Proyectos
-Proyectos de inroducción a python
+Proyectos de introducción a python
